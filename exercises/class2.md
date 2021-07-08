@@ -1,4 +1,4 @@
-# Class2 Exercise (Author Yu-Wei, Chen ex-TA)
+# Class2 Exercise (Author:Yu-Wei, Chen ex-TA)
 ## Easy
 #### Question:
 Please declare 5 variables, include
