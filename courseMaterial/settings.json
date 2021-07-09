@@ -15,7 +15,7 @@
             "args": [],
             "cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "integratedTerminal",
+            "console": "integratedTerminal", //這邊同學可以自由改成externalTerminal 或 integratedTerminal
             "stopAtEntry": false
             },
             {
