@@ -18,7 +18,7 @@ Write a program that asks the user input two positive integers, then calculates 
 
 **Hint:** 
 1. You can take [Chapter 4.11](https://cool.ntu.edu.tw/courses/6963/files/846673?module_item_id=239366) as reference, use the [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm) to find out GCD, then calculate LCM. 
-2. **DO NOT** use recursion(will be discussed on Chapter 13.4).
+2. **DO NOT** use recursion.
 
 #### Example 1
 ![image](https://user-images.githubusercontent.com/21131915/110319166-7511c980-8049-11eb-99d2-ed645a0ad897.png)
