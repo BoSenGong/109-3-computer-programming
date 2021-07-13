@@ -6,7 +6,7 @@ For example, 153 is a 3-narcissistic number (153 = 1<sup>3</sup> + 5<sup>3</sup>
 Write a program to find out **all** of the 3-narcissistic numbers.
 
 **Hint:** 
-1. You can take [Chapter 4.7](https://cool.ntu.edu.tw/courses/4605/files/545442?module_item_id=151688) as reference. Use ```for``` or ```while``` loop to check every number from 100 to 999.
+1. You can take [Chapter 4.7](https://cool.ntu.edu.tw/courses/6963/files/846673?module_item_id=239366) as reference. Use ```for``` or ```while``` loop to check every number from 100 to 999.
 2. For every number, you need to use ```/``` or ```%``` to get the three digits.
 
 #### Example
@@ -17,7 +17,7 @@ Write a program to find out **all** of the 3-narcissistic numbers.
 Write a program that asks the user input two positive integers, then calculates their greatest common divisor(GCD) and least common multiple(LCM).
 
 **Hint:** 
-1. You can take [Chapter 4.11](https://cool.ntu.edu.tw/courses/4605/files/545442?module_item_id=151688) as reference, use the [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm) to find out GCD, then calculate LCM. 
+1. You can take [Chapter 4.11](https://cool.ntu.edu.tw/courses/6963/files/846673?module_item_id=239366) as reference, use the [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm) to find out GCD, then calculate LCM. 
 2. **DO NOT** use recursion(will be discussed on Chapter 13.4).
 
 #### Example 1
@@ -39,9 +39,9 @@ Assume _F<sub>1</sub>_=1 and _F<sub>2</sub>_=1, write a program that asks the us
 ). 
 
 **Note:** 
-1. You can take problem 6 in [Chapter 4 exercises](https://cool.ntu.edu.tw/courses/4605/files/545441?module_item_id=151689) as reference.
+1. You can take problem 6 in [Chapter 4 exercises](https://cool.ntu.edu.tw/courses/6963/files/846674?module_item_id=239367) as reference.
 2. You don't need to consider the overflow or underflow problem, please use ```double``` or ```ulong``` instead of ```int``` to declare _F<sub>n</sub>_ , _F<sub>n-1</sub>_ and _F<sub>n-2</sub>_ .
-3. You are encouraged to use ```for``` loop to solve this problem. **DO NOT** use recursion(will be discussed on Chapter 13.4).
+3. You are encouraged to use ```for``` loop to solve this problem. **DO NOT** use recursion.
 
 #### Example
 ![](https://i.imgur.com/sF5rhBa.png)
