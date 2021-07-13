@@ -7,7 +7,7 @@ Write a program to find out **all** of the 3-narcissistic numbers.
 
 **Hint:** 
 1. You can take [Chapter 4.7](https://cool.ntu.edu.tw/courses/6963/files/846673?module_item_id=239366) as reference. Use ```for``` or ```while``` loop to check every number from 100 to 999.
-2. For every number, you need to use ```/``` or ```%``` to get the three digits.
+2. For each number, you need to use ```/``` or ```%``` to get the three digits.
 
 #### Example
 ![image](https://user-images.githubusercontent.com/21131915/110295817-86001200-802c-11eb-92bd-4b80d1556091.png)
