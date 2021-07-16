@@ -12,7 +12,7 @@
 | 10    | [林姿函](https://youtu.be/ZjYxTJx9oRo)                | [林煒銘](https://youtu.be/t6vtVOKS54w)                       | 高宇妏                                                |
 | 11    | [張采翔](https://youtu.be/4oBjeV-LMUc)                | [李旻剛](https://youtu.be/CV5QEpVL6so)                       | 賴宇辰                                                |
 | 12    | [庵原嘉峰](https://youtu.be/NJyYlU2dzUk)              | [楊文蘭](https://drive.google.com/file/d/19DNCEPt3nYxhf_c0xAezMI5wmzJswEp0/view?usp=sharing) | 鄭佩芬                                                |
-| 13    | [劉沛彤](https://youtu.be/HiFJgPxymUU)                                                | [鄭弘偉](https://www.youtube.com/watch?v=90P0XFOagoA)        | [高翊茗](https://www.youtube.com/watch?v=zCchRH41Rak) |
+| 13    | [劉沛彤](https://youtu.be/O1p0nm9pNMU)                                                | [鄭弘偉](https://www.youtube.com/watch?v=90P0XFOagoA)        | [高翊茗](https://www.youtube.com/watch?v=zCchRH41Rak) |
 | 14    | [林家晞](https://youtu.be/luWLOfOCbkA)                | [章舒涵](https://youtu.be/pkm322eELyE)                       |                                                       |
 | 15    | [李昱蓉](https://youtu.be/H-NZU_fSdQM)                | [李采蓉](https://youtu.be/S9jkUQOkP1c)                       |                                                       |
 | 16    | 廖浚棋                                                | [許權麒](https://youtu.be/jnANAa24wik)                       | 陳宣儒                                                |
