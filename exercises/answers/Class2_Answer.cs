@@ -3,7 +3,8 @@
             Console.Write("temperature of Celsius:");
             try{
                 double degreesCelsius = Double.Parse(Console.ReadLine());
-                double degreesFahrenheit = 9/5 * degreesCelsius + 32;
+                double degreesFahrenheit = 9.0/5 * degreesCelsius + 32;
+                // 若為 9(int)/5(int) 會算出 1
                 if(degreesFahrenheit < -459.67){
                     throw new ArgumentException();
                 }
@@ -23,7 +24,10 @@
                 isEnd = true;
             }catch(Exception e){}
             Console.Write(isEnd? "\nEnd" : "\nSomething wrong, please check.");
+            // 可以善用\n來做換行，另有各式escape character
+            // https://en.wikipedia.org/wiki/Escape_character
             return isEnd? 0 : -1;
+            // 雖C#的Main可以宣告為void，但此範例的寫法，可以藉由回傳值為0/-1來判斷此程式的執行狀況。
         }
         static void Hard(){
             Console.WriteLine("Input formula:");
