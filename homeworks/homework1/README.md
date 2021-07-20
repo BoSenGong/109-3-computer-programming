@@ -7,7 +7,7 @@
 | 5     | 李知芸                                                | [羅文君](https://www.youtube.com/watch?v=i8mnodQTlrE)        |                                                       |
 | 6     | [劉晏瑜](https://youtu.be/SDrCZU9gJHY)                | [潘昱辰](https://youtu.be/tWUrAYU_xL8)                       | [顏士倫](https://youtu.be/oFROh3O-BUE)                |
 | 7     | [吳承霖](https://www.youtube.com/watch?v=ACnBibZXCAg) | 宋冠儀                                                       | [陳翊嘉](https://youtu.be/K5bnsXN4Ii8)                |
-| 8     | 吳偉綸                                                | 宋品岳                                                       |                                                       |
+| 8     | 吳偉綸                                                | [宋品岳](https://youtu.be/Tt-BRsj8IN8)                                                       |                                                       |
 | 9     | [吳冠霖](https://youtu.be/69Ef2IGqlVE)                | [林新晨](https://youtu.be/WYl9drCAz4c)                       | [陳柏融](https://youtu.be/EsM339w2XSs)                |
 | 10    | [林姿函](https://youtu.be/ZjYxTJx9oRo)                | [林煒銘](https://youtu.be/t6vtVOKS54w)                       | 高宇妏                                                |
 | 11    | [張采翔](https://youtu.be/4oBjeV-LMUc)                | [李旻剛](https://youtu.be/CV5QEpVL6so)                       | 賴宇辰                                                |
