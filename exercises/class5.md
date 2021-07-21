@@ -1,6 +1,36 @@
 # class5 - Mideterm review
 
-## **Q1: Ascii Code Converter**
+## **Q1: 台電電價計算**
+
+台電現行電價採累進費率方式計算，以一般住家及非營業機構來說，其費率級距如下圖所示:
+
+![image](https://user-images.githubusercontent.com/21131915/126429686-720291e5-e68c-420f-9ed2-63aa0cf13414.png)
+
+請撰寫一個程式，要求使用者分別輸入月份與用電度數，接著按照上圖級距計算並顯示其電費價格。
+
+### Reference: 
+
+[台灣電力公司各類電價表及計算方式](https://www.taipower.com.tw/upload/1417/2018033011504596497.pdf)
+
+## **Q2: prime factorization**
+
+Please factor a positive integer into prime factors (from small to large).
+
+#### Example 1
+
+```
+Enter a positive integer: 90
+90=2*3*3*5
+```
+
+#### Example 2
+
+```
+Enter a range: 97
+97=97
+```
+
+## **Q3: Ascii Code Converter**
 ASCII abbreviated from American Standard Code for Information Interchange, 
 
 is a character encoding standard for electronic communication. 
@@ -20,31 +50,3 @@ although they support many additional characters.[[ref]](https://en.wikipedia.or
 #### Example:
 ![example](https://imgur.com/o2JHbFF.jpg)
 
-## **Q2: 台電電價計算**
-
-台電現行電價採累進費率方式計算，以一般住家及非營業機構來說，其費率級距如下圖所示:
-
-![image](https://user-images.githubusercontent.com/21131915/126429686-720291e5-e68c-420f-9ed2-63aa0cf13414.png)
-
-請撰寫一個程式，要求使用者分別輸入月份與用電度數，接著按照上圖級距計算並顯示其電費價格。
-
-## **Q3: prime factorization**
-
-Please factor a positive integer into prime factors (from small to large).
-
-#### Example 1
-
-```
-Enter a positive integer: 90
-90=2*3*3*5
-```
-
-#### Example 2
-
-```
-Enter a range: 97
-97=97
-```
-
-## Reference: ##
-[台灣電力公司各類電價表及計算方式](https://www.taipower.com.tw/upload/1417/2018033011504596497.pdf)
