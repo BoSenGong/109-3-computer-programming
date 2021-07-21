@@ -6,11 +6,11 @@
 
 ![image](https://user-images.githubusercontent.com/21131915/126429686-720291e5-e68c-420f-9ed2-63aa0cf13414.png)
 
+Ref:[台灣電力公司各類電價表及計算方式](https://www.taipower.com.tw/upload/1417/2018033011504596497.pdf)
+
 請撰寫一個程式，要求使用者分別輸入月份與用電度數，接著按照上圖級距計算並顯示其電費價格。
 
-### Reference: 
-
-[台灣電力公司各類電價表及計算方式](https://www.taipower.com.tw/upload/1417/2018033011504596497.pdf)
+### 
 
 ## **Q2: prime factorization**
 
