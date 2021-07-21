@@ -23,6 +23,10 @@
                 }
                 isEnd = true;
             }catch(Exception e){}
+            // try/throw-catch是一種很方便的語法，可以讓我們程式發生錯誤時，根據不同的exception做出不同的反應，而不是直接中斷。
+            // 範例程式碼可以參考C# docs
+            // https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch
+            // try-catch是範圍外的內容，但使用他做例外處理真的非常方便。
             Console.Write(isEnd? "\nEnd" : "\nSomething wrong, please check.");
             // 可以善用\n來做換行，另有各式escape character
             // https://en.wikipedia.org/wiki/Escape_character
