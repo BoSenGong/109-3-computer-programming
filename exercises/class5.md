@@ -26,7 +26,7 @@ Enter a positive integer: 90
 #### Example 2
 
 ```
-Enter a range: 97
+Enter a positive integer:  97
 97=97
 ```
 
