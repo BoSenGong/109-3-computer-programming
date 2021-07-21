@@ -1,28 +1,27 @@
-    /*Number Triangle*/
+﻿
+		/*Number Triangle*/
 		static void easy(){
 			/*Solution*/
 			Console.Write("Enter a range: ");
 			int n = int.Parse(Console.ReadLine());
 			
-			  for(int i=1; i<=n; i++){
-				  //數字三角形左側的空白數量為三角形高度(n)-目前第幾行(i)
-				  for(int j=1; j<=n-i; j++)
-					  Console.Write(" ");
+			for(int i=1; i<=n; i++){
+				//數字三角形左側的空白數量為三角形高度(n)-目前第幾行(i)
+				for(int j=1; j<=n-i; j++)
+					Console.Write(" ");
 				
-				  //數字三角形左半邊為等差數列由1至i
-				  for(int j=1; j<=i; j++)
-					  Console.Write(j);
+				//數字三角形左半邊為等差數列由1至i
+				for(int j=1; j<=i; j++)
+					Console.Write(j);
 				
-				  //數字三角形右半邊為等差數列由i-1至1
-				  for(int j=i-1; j>=1; j--)
-					  Console.Write(j);
+				//數字三角形右半邊為等差數列由i-1至1
+				for(int j=i-1; j>=1; j--)
+					Console.Write(j);
 				
-				  //for迴圈一次疊代一行總共n行
-				  Console.Write("\n");
-			  }
-      }
-      
-      
+				//for迴圈一次疊代一行總共n行
+				Console.Write("\n");
+			}
+        }
 		/*中二 ID generator*/
 		static void medium(){
 			/*Solution*/
@@ -52,9 +51,7 @@
 			//postfix
 			Console.Write(postfix[p]);
 			Console.Write("\n");
-    }
-        
-        
+        }
 		/*Reverse Number*/
 		static void hard(){
 			/*Solution*/
@@ -80,10 +77,10 @@
 					break;
 				}
 			}
-    }
+        }
 		static void Main(string[] args)
-    {
-      easy();
-      medium();
-      hard();
-    }
+        {
+            easy();
+            medium();
+            hard();
+        }
