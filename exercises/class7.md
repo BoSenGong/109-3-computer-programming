@@ -1,4 +1,4 @@
-# Class5 Exercise
+# Class7 Exercise
 ## Easy
 
 #### **Question: Drink bar menu**
