@@ -32,7 +32,7 @@ that arises in probability theory, combinatorics, and algebra. \
 e.g. \
 ![binomial](https://imgur.com/1KL14Yn.jpg)
 
-In this problem, you nead to read an integer as the height of the Pascal's triangle. \
+In this problem, you need to read an integer as the height of the Pascal's triangle. \
 Output is sum of all integers in the Pascal's triangle. 
 
 #### Example 1
