@@ -1,4 +1,4 @@
-# Class8 Exercise
+# Class8 Exercise (Author:Yu-Wei Chen, ex-TA)
 
 Now, you are an engineer who accept a commission from New York Yankees coaching team. You need to write 3 programs to complete this commission.
 
