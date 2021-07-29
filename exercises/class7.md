@@ -72,13 +72,13 @@ Sum of all integers equals to 31
 
 #### **Question: Spreading**
 
-Peko-virus, is a horrible virus with strong infectiousness. \
-People were infected by it, can't alive without saying "peko" ... 
+Peko-virus is a horrible virus with strong infectiousness. \
+People who infected by it can't alive without saying "peko" ... 
 
-In consideration of a class consists of two types of students, \
+Consider a class that consists of two types of students, \
 0 : students who are not infected by peko-virus. \
 1 : students who are infected by peko-virus. \
-Every 10 minutes, 0 will be infected by nearby(:arrow_up:, :arrow_right:, :arrow_down:, :arrow_left:) 1. 
+Every 10 minutes, type 0 student will be infected if there is a type 1 student nearby itself(:arrow_up:, :arrow_right:, :arrow_down:, :arrow_left:). 
 
 As a teacher, you need to calculate \
 how long does it take that all of your students are infected by peko-virus.
