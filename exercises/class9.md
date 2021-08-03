@@ -31,7 +31,8 @@ _M = 1000 * 1000 = 1000000
 
 ## Medium
 #### Question: Roman Numeral Calculator
-Make a caculator which can deal with Roman Numeral and Arabic Numeral.
+Make a caculator which can deal with Roman Numeral and Arabic Numeral. \
+Output the result in Roman Numeral.
 #### Example:
 ```
 I-1
