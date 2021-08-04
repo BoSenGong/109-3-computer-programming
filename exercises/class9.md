@@ -103,4 +103,4 @@ both input and output will smaller than 7414.
 1. 善用 bool array
 2. 善用 array 的 index 順序
 3. 你必須清楚理解，你到底可以用/想用你擁有的變數，來做什麼事情，並且妥善安排各步驟的順序。
-4. 不要覺得超出範圍，這題只要會if else跟array就能寫了。
+4. 不要覺得超出範圍，這題只要用if else, loop, array就能寫了。
