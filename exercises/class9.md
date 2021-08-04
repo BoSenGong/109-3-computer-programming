@@ -60,6 +60,9 @@ DCLXVI
 ```
 means: 543+123 = 666
 
+Note:
+
+both input and output will smaller than 7414.
 
 ## Hard
 #### Question: Zerojudge_b537
