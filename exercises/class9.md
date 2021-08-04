@@ -26,7 +26,9 @@ eg:
 
 _V = 1000 * 5 = 5000
 
-_M = 1000 * 1000 = 1000000
+Note:
+
+testing data will smaller than 7414.
 
 
 ## Medium
