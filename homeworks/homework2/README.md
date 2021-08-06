@@ -9,7 +9,7 @@
 | 7     | 吳承霖                | 宋冠儀                       | [陳翊嘉](https://youtu.be/s8JLqxi7DxI)             |
 | 8     | 吳偉綸                | [宋品岳](https://youtu.be/s9vAD2z9UBo)                       |                           |
 | 9     | [吳冠霖](https://youtu.be/xCfBY0DX0TM)                | [林新晨](https://youtu.be/oGfAIv6AMu0)                       | [陳柏融](https://youtu.be/pwmCEou4Peg)                |
-| 10    | 林姿函                | 林煒銘                       | 高宇妏                                                |
+| 10    | 林姿函                | 林煒銘                       | [高宇妏](https://youtu.be/Tim6CDHQnqI)                                                |
 | 11    | [張采翔](https://youtu.be/jIjHXLPcSaw)                | [李旻剛](https://youtu.be/yMfgZ0JOod4)                       | 賴宇辰                                                |
 | 12    | [庵原嘉峰](https://youtu.be/3GNCnHTf39E)              | [楊文蘭](https://drive.google.com/file/d/1ATKHJ_wS3uPff33nWMORT-zegxAXs_8B/view?usp=sharing)                       | 鄭佩芬                                                |
 | 13    | [劉沛彤](https://www.youtube.com/watch?v=0Pu7Ko6OOq8)                | [鄭弘偉](https://www.youtube.com/watch?v=0Pu7Ko6OOq8)                       | [高翊茗](https://www.youtube.com/watch?v=0Pu7Ko6OOq8) |
