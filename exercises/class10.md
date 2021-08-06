@@ -9,7 +9,7 @@ just declare methods for each questions below.
 ```
 static bool Easy(string s) { ... }
 static string Medium(string s, int numRows) { ... }
-static string Hard(string s, string p) { ... }
+static bool Hard(string s, string p) { ... }
 ```
 
 ## Easy
