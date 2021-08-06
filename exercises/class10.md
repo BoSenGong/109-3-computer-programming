@@ -33,6 +33,14 @@ Output: false
 Input: s = "([)]"
 Output: false
 ```
+### Hint:
+bracket : () or [] or {} \
+bra : ( or [ or { \
+ket : ) or ] or } \
+s = "()[]{}" \
+means: bra1()ket1 bra2[]ket2 bra3{}ket3 \
+s = "([)]" \
+means: bra1(  bra2[)ket1  ]ket2
 
 ## Medium
 #### Question: LeetCode - Zig-Zag Conversion
@@ -47,8 +55,11 @@ Output: "GGoAidsrIl"
 Input: s = "DamDadiDo", numRows = 3
 Output: "DaoaDdDmi"
 ```
+### Hint:
+Calculate the period of Zig-Zag by numRows
 
-## Hard
+
+## Hard (beyond the course, challenge)
 #### Question: LeetCode - Regular Expression Matching
 [link](https://leetcode.com/problems/regular-expression-matching/)
 
