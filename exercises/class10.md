@@ -29,6 +29,10 @@ Output: true
 Input: s = "(]"
 Output: false
 ```
+```
+Input: s = "([)]"
+Output: false
+```
 
 ## Medium
 #### Question: LeetCode - Zig-Zag Conversion
