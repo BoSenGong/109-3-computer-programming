@@ -38,7 +38,7 @@ namespace Class9
                 }
             }
             Console.WriteLine(k);
-        }
+        }// 當然，你也可以用遞迴寫
 
         public static string Forward(int k)
         {// 可以拿來出測資指定編號k，會給出題目所需要的兩個數
