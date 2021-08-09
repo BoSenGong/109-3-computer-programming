@@ -3,6 +3,8 @@ namespace Class9
 {
     class Easy
     {
+        // 這題只須注意羅馬->阿拉伯轉換過程中，9優先於4優先於5，最後再來處理1即可。
+        // 善用Dictionary or int[] + string[]把convert table建立起來，可以用迴圈大幅簡化下列函式的篇幅
         public static void Easy_Converter()
         {
             string input = Console.ReadLine();
