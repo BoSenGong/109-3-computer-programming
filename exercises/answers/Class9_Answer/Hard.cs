@@ -1,5 +1,5 @@
 using System;
-namespace grading
+namespace Class9
 {
     class Hard
     {
