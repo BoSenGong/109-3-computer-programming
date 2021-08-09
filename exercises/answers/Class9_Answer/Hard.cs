@@ -24,7 +24,7 @@ namespace Class9
                 }
                 step++;                
             }
-            // a_k = a_k / b_k, k就是編號
+            // f_k = a_k / b_k, k就是編號
             int k = 1;
             for(int i = step-1; i >= 0; i--)
             {
