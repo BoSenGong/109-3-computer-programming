@@ -53,8 +53,8 @@ The words are not anagrams.
 
 ## **Q3: Find root**
 
-Find the root of following function by any method you come out with. \
-The deviation between your answer and answer in Note shoud smaller than 0.0001
+Find the root of the following function by any method you come out with. \
+The deviation between your answer and the correct answer(see Note.) in Note shoud be smaller than 0.0001.
 
 1. ![f1](https://imgur.com/nqOzZtK.jpg)
 2. ![f2](https://imgur.com/Y6iRVG1.jpg)
@@ -63,11 +63,11 @@ The deviation between your answer and answer in Note shoud smaller than 0.0001
 5. ![f5](https://imgur.com/DOKLFDf.jpg)
 
 #### Note: Approximate Root
-1. 2.0000
-2. 1.2599
-3. 2.0739
-4. 1.6490
-5. 3.2216
+1.  2.0000
+2.  1.2599
+3.  2.0739
+4.  1.6490
+5.  3.2216
 
 ***DO NOT USE*** something like 
 ```
