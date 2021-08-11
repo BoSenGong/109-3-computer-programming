@@ -92,3 +92,5 @@ if (myAns - noteAns < 0.001)
 #### Hint:
 1. [Root-finding algorithms](https://en.wikipedia.org/wiki/Root-finding_algorithms)
 2. 如果你真的毫無想法，可以參考高中曾經學過的[勘根定理](http://web.ntnu.edu.tw/~algo/RootFinding.html)，想辦法用程式來實作
+3. The "e" in function 4 is known as [Euler number](https://en.wikipedia.org/wiki/E_(mathematical_constant)), you can use [Math.Exp() methods](https://docs.microsoft.com/en-us/dotnet/api/system.math.exp?view=net-5.0) in C#. Math.Exp(x) means: e to the power of x.
+4. sinh(x) is a hyperbolic function, [formula](https://en.wikipedia.org/wiki/Hyperbolic_functions) of it can be found by wikipedia.
