@@ -69,6 +69,15 @@ The deviation between your answer and the correct answer(see Note.) in Note shou
 4.  1.6490
 5.  3.2216
 
+### Output: ###
+```
+f1's root at x = 1.99991234
+f2's root at x = 1.25995678
+f3's root at x = 2.07399012
+f4's root at x = 1.64903456
+f5's root at x = 3.22167890
+```
+
 ***DO NOT USE*** something like 
 ```
 ...
@@ -78,14 +87,6 @@ if (myAns - noteAns < 0.001)
     break;
 }
 ...
-```
-### Output: ###
-```
-f1's root at x = 1.99991234
-f2's root at x = 1.25995678
-f3's root at x = 2.07399012
-f4's root at x = 1.64903456
-f5's root at x = 3.22167890
 ```
 
 #### Hint:
