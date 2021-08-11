@@ -54,7 +54,7 @@ The words are not anagrams.
 ## **Q3: Find root**
 
 Find the root of the following function by any method you come out with. \
-The deviation between your answer and the correct answer(see Note.) in Note shoud be smaller than 0.0001.
+The deviation between your answer and the correct answer(see Note.) shoud be smaller than 0.0001.
 
 1. ![f1](https://imgur.com/nqOzZtK.jpg)
 2. ![f2](https://imgur.com/Y6iRVG1.jpg)
