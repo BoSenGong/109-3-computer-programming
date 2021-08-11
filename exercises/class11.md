@@ -82,4 +82,4 @@ if (myAns - noteAns < 0.001)
 
 #### Hint:
 1. [Root-finding algorithms](https://en.wikipedia.org/wiki/Root-finding_algorithms)
-2. 如果你真的毫無想法，可以參考高中曾經學過的[勘根定理](http://web.ntnu.edu.tw/~algo/RootFinding.html)
+2. 如果你真的毫無想法，可以參考高中曾經學過的[勘根定理](http://web.ntnu.edu.tw/~algo/RootFinding.html)，想辦法用程式來實作
